@@ -1,6 +1,5 @@
-# Statistical-Analysis-A-B-Testing-and-Regression
+# Statistical-Analysis-A-B-Testing-and-Regression and Machine Learning
 
-# Statistical Analysis: A/B testing and Machine Learning
 Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machine Learning methodology.
 
 
